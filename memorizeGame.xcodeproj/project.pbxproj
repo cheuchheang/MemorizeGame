@@ -11,6 +11,7 @@
 		E200794629339CC60080F553 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E200794529339CC60080F553 /* ContentView.swift */; };
 		E200794829339CC80080F553 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E200794729339CC80080F553 /* Assets.xcassets */; };
 		E200794B29339CC80080F553 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E200794A29339CC80080F553 /* Preview Assets.xcassets */; };
+		E21B02242938EF9300962184 /* MemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = E21B02232938EF9300962184 /* MemoryGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E200794529339CC60080F553 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E200794729339CC80080F553 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E200794A29339CC80080F553 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E21B02232938EF9300962184 /* MemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				E200794329339CC60080F553 /* memorizeGameApp.swift */,
+				E21B02232938EF9300962184 /* MemoryGame.swift */,
 				E200794529339CC60080F553 /* ContentView.swift */,
 				E200794729339CC80080F553 /* Assets.xcassets */,
 				E200794929339CC80080F553 /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E21B02242938EF9300962184 /* MemoryGame.swift in Sources */,
 				E200794629339CC60080F553 /* ContentView.swift in Sources */,
 				E200794429339CC60080F553 /* memorizeGameApp.swift in Sources */,
 			);
